@@ -1,2 +1,2 @@
 # Information-System
-information System develop with Java
+(Grop) information System develop with Java
